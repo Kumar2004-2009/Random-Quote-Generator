@@ -1,0 +1,13 @@
+
+body {
+  font-family: sans-serif;
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+  --tw-bg-opacity: 1;
+  background-color: rgb(27 36 48 / var(--tw-bg-opacity))
+  
+}
+
